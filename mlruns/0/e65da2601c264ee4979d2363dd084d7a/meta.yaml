@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/High-Tech/Documents/AI/mlflow%20demo/mlruns/0/e65da2601c264ee4979d2363dd084d7a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e65da2601c264ee4979d2363dd084d7a
+run_name: unleashed-mole-950
+run_uuid: e65da2601c264ee4979d2363dd084d7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709559280869
+status: 1
+tags: []
+user_id: High-Tech

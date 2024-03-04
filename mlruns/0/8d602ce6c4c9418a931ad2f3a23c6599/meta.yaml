@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/High-Tech/Documents/AI/mlflow%20demo/mlruns/0/8d602ce6c4c9418a931ad2f3a23c6599/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8d602ce6c4c9418a931ad2f3a23c6599
+run_name: resilient-hare-447
+run_uuid: 8d602ce6c4c9418a931ad2f3a23c6599
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709559185807
+status: 1
+tags: []
+user_id: High-Tech
